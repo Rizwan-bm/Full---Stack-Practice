@@ -1,6 +1,6 @@
 public class control {
     public static void main(String[] args) {
-        int number = 10;
+        int number = 100;
 
         // If-else statement
         if (number > 0) {
