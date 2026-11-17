@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task03 {
+public class LargestofTwoNumbers {
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {
             System.out.print("Enter the first number: ");
