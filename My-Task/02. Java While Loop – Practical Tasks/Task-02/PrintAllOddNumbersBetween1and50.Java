@@ -1,4 +1,4 @@
-public class Task02 {
+public class PrintAllOddNumbersBetween1and50 {
     public static void main(String[] args) {
         int number = 1;
 
