@@ -1,4 +1,4 @@
-public class Task04 {
+public class RightTriangleStarPatternPyramid {
     public static void main(String[] args) {
         int totalRows = 5;
 
