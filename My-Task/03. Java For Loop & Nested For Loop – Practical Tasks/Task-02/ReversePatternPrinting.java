@@ -1,4 +1,4 @@
-public class Task02 {
+public class ReversePatternPrinting {
     public static void main(String[] args) {
         int totalRows = 5;
 
