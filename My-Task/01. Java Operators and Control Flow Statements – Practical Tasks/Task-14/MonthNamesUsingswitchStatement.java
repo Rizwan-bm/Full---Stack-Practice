@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task14 {
+public class MonthNamesUsingswitchStatement {
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {
             System.out.print("Enter month number (1-12): ");
