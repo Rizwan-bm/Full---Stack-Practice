@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task06 {
+public class StudentPassorFail {
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {
             System.out.print("Enter the student's marks (0-100): ");
