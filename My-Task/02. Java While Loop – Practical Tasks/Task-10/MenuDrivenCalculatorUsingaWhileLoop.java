@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task10 {
+public class MenuDrivenCalculatorUsingaWhileLoop {
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {
             int choice = 0;
