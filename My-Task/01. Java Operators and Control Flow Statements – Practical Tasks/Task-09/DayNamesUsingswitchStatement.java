@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task09 {
+public class DayNamesUsingswitchStatement {
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {
             System.out.print("Enter day number (1-7): ");
