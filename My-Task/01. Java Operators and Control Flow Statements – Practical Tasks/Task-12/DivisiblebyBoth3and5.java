@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task12 {
+public class DivisiblebyBoth3and5 {
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {
             System.out.print("Enter an integer: ");
