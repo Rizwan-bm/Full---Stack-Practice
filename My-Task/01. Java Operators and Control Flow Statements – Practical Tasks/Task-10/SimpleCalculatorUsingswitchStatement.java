@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task10 {
+public class SimpleCalculatorUsingswitchStatement {
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {
             System.out.print("Enter first number: ");
