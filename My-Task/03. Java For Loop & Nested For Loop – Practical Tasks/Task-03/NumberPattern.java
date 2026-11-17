@@ -1,4 +1,4 @@
-public class Task03 {
+public class NumberPattern {
     public static void main(String[] args) {
         int totalRows = 5;
 
