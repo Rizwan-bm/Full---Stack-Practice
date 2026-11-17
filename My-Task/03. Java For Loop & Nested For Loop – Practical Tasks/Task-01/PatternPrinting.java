@@ -1,4 +1,4 @@
-public class Task01 {
+public class PatternPrinting {
     public static void main(String[] args) {
         int totalRows = 5;
 
