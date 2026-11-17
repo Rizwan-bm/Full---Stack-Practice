@@ -1,4 +1,4 @@
-public class Task01 {
+public class PrintNumbersfrom1to100 {
     public static void main(String[] args) {
         int currentNumber = 1;
 
